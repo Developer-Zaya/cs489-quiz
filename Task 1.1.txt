@@ -1,0 +1,13 @@
+Task 1.1 
+
+For the problem statement given above, perform Requirements discovery, identify the functional requirements for the system, and present them in a list of short statements inside a .txt file. 
+
+Answer:
+
+Add Contact: Users shall be able to input and save new contact records with fields for first name, last name, company, job title, phone numbers, and email addresses.
+Edit Contact: Users shall be able to modify and update existing contact records.
+Delete Contact: Users shall be able to permanently remove a contact record.
+Search Contacts: Users shall be able to search for contacts by first name, last name, company, job title, email, or phone number.
+Contact Display: Search results shall display matching contacts clearly, showing relevant details.
+Phone and Email Labels: Users shall be able to assign labels to phone numbers and emails.
+Merge Duplicates: The system shall have the capability to identify and merge duplicate contact entries.
